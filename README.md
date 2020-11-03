@@ -1,2 +1,0 @@
-# RPS-game
-RPS game
